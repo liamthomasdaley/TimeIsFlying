@@ -5,7 +5,7 @@
     xml:id="ox-ms_shelley_adds_c4-0078" ulx="0" uly="0" lrx="4966" lry="7248">
   <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0078.jp2"/>
   <zone type="library">
-	<line>35</line>    
+    <line>35</line>    
   </zone>
   <zone type="main">
     <line>Bright wanderer, fair coquette of Heaven,</line>
@@ -17,23 +17,23 @@
     <line>She left me at the silent time</line>	
     <line>When the moon had ceased to climb</line>
     <line>The azure <mod> 
-		<del rend="strikethrough">dome</del> 
+	<del rend="strikethrough">dome</del> 
         <del rend="strikethrough"><add place="superlinear">path</add></del>
-	 </mod>of Heaven’s 
-		<del rend="strikethrough">deep</del>
-		<add place="superlinear">steep</add></line>
+    </mod>of Heaven’s 
+	<del rend="strikethrough">deep</del>
+	<add place="superlinear">steep</add></line>
     <line>And like an albatross asleep</line>
     <line><mod>
-      <del rend="strikethrough">Heaven</del>	
+        <del rend="strikethrough">Heaven</del>	
     </mod>Balanced on her wings of light.</line>
     <line>Hovered in the purple night —</line>	
     <line><mod>
-	  <del rend="strikethrough">And I who sat beside her feet</del>
-	</mod></line>	
+	<del rend="strikethrough">And I who sat beside her feet</del>
+    </mod></line>	
     <line>Ere she <mod>  
-	  <del rend="strikethrough">flew to seek her</del> 
-	  <add place="superlinear">sought her ocean</add> 
-	</mod>nest,</line>
+	 <del rend="strikethrough">flew to seek her</del> 
+	 <add place="superlinear">sought her ocean</add> 
+    </mod>nest,</line>
     <line>In the chambers of the west. —</line>
     <line>She left me, and I <mod>  
 	  <del rend="strikethrough">
@@ -41,23 +41,23 @@
 		unit="character"/>
 	  </del>
 	  <add place="superlinear">staid</add> 
-	</mod>alone</line>
+    </mod>alone</line>
     <line>Thinking over every tone,</line>
     <line>Which though now silent to the ear</line>	
     <line>The enchanted heart could hear</line>	
     <line><mod>
 	  <del rend="strikethrough">Like music pleasant</del> 
 	  <add place="superlinear">fast</add> 
-	</mod>to reach us</line>	
+    </mod>to reach us</line>	
     <line>Like notes which die when born, but still</line>
     <line>Haunt the echoes of the hill:</line>
     <line>And <mod> 
 	  <del rend="strikethrough">the</del>
-	</mod>feeling ever— o too much</line>	
+    </mod>feeling ever— o too much</line>	
     <line>The soft vibrations of her touch</line>
     <line>As if her gentle hand even now</line>	
     <line>Lightly <mod>
 	  <del rend="strikethrough">placed</del>
-	</mod>trembles on my brow</line>
+    </mod>trembles on my brow</line>
   </zone>	
 </surface>
