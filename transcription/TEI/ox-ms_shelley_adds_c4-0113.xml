@@ -4,28 +4,28 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4896" lry="7354" xml:id="ox-ms_shelley_adds_c4-0113">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0113.jp2"/>
-    <del rend="strikethrough">An</del>
-    <del rend="strikethrough">Fly</del>
-Phantoms of men 
-    <del rend="strikethrough">Compelling them</del>
-    <del rend="strikethrough">With several dream –odling the <unclear>shapeless* maps*</unclear></del>
-    <del rend="strikethrough">I’d distract</del>
+    <line><del rend="strikethrough">An</del></line>
+   <line> <del rend="strikethrough">Fly</del></line>
+<line>Phantoms of men </line>
+    <line><del rend="strikethrough">Compelling them</del></line>
+    <line><del rend="strikethrough">With several dream –odling the <unclear>shapeless* maps*</unclear></del></line>
+    <line><del rend="strikethrough">I’d distract</del></line>
 
-Thus, on the way
-Mask after mask fell from the countenance
-    <del rend="strikethrough">And from of any* pilgrim*</del>
-    And from of all, and <add place="superlinear"><del rend="strikethrough">and won</del></add> when the day  
-    Has old the joy which <del rend="strikethrough">was</del> <add place="superlinear">heaven</add> won demons <add place="superlinear">of XXX</add>
-    <del rend="strikethrough">[J/P]XXXd</del> The XufrXs in the other miss* XXXX XXXX
-    And <del rend="strikethrough">XXX</del> <add place="superlinear">some</add> grew weary of the ghastly dance
-    And <del rend="strikethrough">sunk</del> fell, as I have fallen often
-          And I define XXXX
-    Those worst*, <del rend="strikethrough">from when XXXX XXXX</del> <add place="sublinear"> from when XXXX most had one [host/past</add>
-    And XXX of <del rend="strikethrough">:XXX</del> <add place="superlinear">XXXX</add> of* honesty and XXX XXXX 
-How,
-    And what is life I <del rend="strikethrough">said</del> <add place="sublinear">said</add> … {if XXXX XXXX]
-[ST: Wh] <add place="superlinear">This</add> eye when the <del rend="strikethrough">XXX XXX of heaXXX</del> <add place="sublinear">ear which--- had ---d</add>
-    Onward, <unclear reason="illegible">as/is</unclear> of that book XXX he the [host/past]
-And answered… Happy XXX for when the XXX
-Of
+<line>Thus, on the way</line>
+<line>Mask after mask fell from the countenance</line>
+   <line> <del rend="strikethrough">And from of any* pilgrim*</del></line>
+    <line>And from of all, and <add place="superlinear"><del rend="strikethrough">and won</del></add> when the day  </line>
+    <line>Has old the joy which <del rend="strikethrough">was</del> <add place="superlinear">heaven</add> won demons <add place="superlinear">of XXX</add></line>
+    <line><del rend="strikethrough">[J/P]XXXd</del> The XufrXs in the other miss* XXXX XXXX</line>
+    <line>And <del rend="strikethrough">XXX</del> <add place="superlinear">some</add> grew weary of the ghastly dance</line>
+    <line>And <del rend="strikethrough">sunk</del> fell, as I have fallen often</line>
+          <line>And I define XXXX</line>
+    <line>Those worst*, <del rend="strikethrough">from when XXXX XXXX</del> <add place="sublinear"> from when XXXX most had one [host/past</add></line>
+    <line>And XXX of <del rend="strikethrough">:XXX</del> <add place="superlinear">XXXX</add> of* honesty and XXX XXXX </line>
+<line>How,</line>
+  <line>  And what is life I <del rend="strikethrough">said</del> <add place="sublinear">said</add> … {if XXXX XXXX]</line>
+<line>[ST: Wh] <add place="superlinear">This</add> eye when the <del rend="strikethrough">XXX XXX of heaXXX</del> <add place="sublinear">ear which--- had ---d</add></line>
+    <line>Onward, <unclear reason="illegible">as/is</unclear> of that book XXX he the [host/past]</line>
+<line> And answered… Happy XXX for when the XXX</line>
+<line>Of</line>
 </surface>
