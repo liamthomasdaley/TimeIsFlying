@@ -4,5 +4,33 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0079">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
-    
+      <zone type="main">
+                <line>And <del rend="strikethrough">thus contented with a lot</del></line>
+                <line rend = "underline"> Which others, who have suffered not,</line>
+                <line>And this a<unclear reason = "illegible">XXXXXX</unclear> she about was</line>
+                <line><del rend="strikethrough">Fancy</del><add place="superlinear">Memory</add> gave me <unclear reason = "illegible">XXXX XXXX</unclear> of her</line>
+                <line>I dare t<unclear reason = "illegible">X</unclear></line>
+                <line><unclear reason = "illegible">XXXXX <del rend="strikethrough">XXXXXXX</del></unclear></line>
+                <line><unclear reason = "illegible">XXXXX</unclear></line>
+                <line><unclear reason = "illegible">XXXX XXX</unclear> fancy dare to claim</line>
+                <line><del rend="strikethrough">And I was happy J<unclear reason = "illegible">XXXXXXXXX</unclear></del></line>
+                <line><del rend="strikethrough">Thus I was happy, of the name</del></line>
+                <line><del rend="strikethrough">Of happiness</del></line>
+                <line><del rend="strikethrough">This <unclear reason = "illegible">XXXXXX</unclear> thought </del></line>
+                <line><del rend="strikethrough"><unclear reason = "illegible">XXX</unclear> passage</del></line>
+                <line><del rend="strikethrough">Within her presence</del></line>
+                <line><del rend="strikethrough">Tha<unclear reason = "illegible">XXXXX</unclear> by her presence, meek & tame</del></line>
+                <line><del rend="strikethrough">She <unclear reason = "illegible">XXXXX</unclear> of my spirit by </del></line>
+                <line>Her <unclear reason = "illegible">XXXXXX</unclear> has made, weak & tame</line>
+                <line><del rend="strikethrough"><unclear reason = "illegible">XXXX XXX XXXXXXXXXX XXX</unclear> thought no more </del></line>
+                <line rend="indent8"><del rend="strikethrough">I lived alone</del></line>
+                <line><del rend="strikethrough">Of pleasures lost <unclear reason = "illegible">XXXXX XXXXX</unclear></del></line>
+                <line>In the time which <del rend="strikethrough">was</del> our own</line>
+                <line>The <unclear reason = "illegible">XXXX XX XXXXXX</unclear> were forgot</line>
+                <line>As they would had been, & work be, <unclear reason = "illegible">XXX</unclear></line>
+                <line><del rend="strikethrough">That now I desire, I <unclear reason = "illegible">XXXX XXX</unclear></del></line>
+                <line>But <unclear reason = "illegible">XXXX</unclear>, the guardian angel was</line>
+                <line>The demon un<unclear reason = "illegible">XXXXXX</unclear> his <unclear reason = "illegible">XXXXX</unclear></line>
+                <line>
+      </zone>
 </surface>
