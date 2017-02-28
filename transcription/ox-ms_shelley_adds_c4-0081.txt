@@ -1,23 +1,23 @@
-[ST: And in* warmth the day had [ST: XXXX] [^left] them]
-[ST: with]
-[ST: And in* heath* of night]
-And in want* of helping them*
-And the crimp* of the home*
-Of dew*, of the [ST: night] what warmth XXXXX
-Was XXXX on the wrinkling* my 
-[XXX]
-[ST: saw the dark for]
-And in for herXXX* with [ST: their] ^his lamp*
-[ST: In the dark* grim*]
-And skim*, XXX in for XXXX damp*
-[ST: Walking the* deathly in]
-XXX and think the XXXX who came*
-To worship in devilish* flame
-[ST: And things with empty]
-So happy, [ST: in] [ST: in] file more tonight
-So higher in the* came of* thought
-			[ST: only heavy my]*
-of in urgent that Julimm*
-[ST: My scream* my XXX my XXX XXXX]
-[ST: deathly my XXX my* dear*]
+<delrend="strikethrough">And in <unclear> warmth the day had <delrend="strikethrough"><unclear> left them </unclear></del>
+<delrend="strikethrough"> with </del>
+[<delrend="strikethrough"> <unclear> in heath </unclear> of night </del>
+And in <unclear> want </unclear> of helping <unclear> them </unclear>
+And the <unclear> crimp </unclear> of the <unclear> home </unclear> 
+Of <unclear> dew, </unclear> of the <delrend="strikethrough"> night </del> what warmth <unclear>text</unclear>
+Was <unclear>text</unclear> on the <unclear> wrinkling </unclear> my 
+<delrend="strikethrough"><unclear>text</unclear></del>
+<delrend="strikethrough"> saw the dark for </del>
+And in for <unclear> text </unclear> with <delrend="strikethrough"> their </del> his <unclear> lamp </unclear>
+<delrend="strikethrough"> In the <unclear>dark grim</unclear></del>
+And <unclear>skim,</unclear><unclear>text</unclear>in for<unclear>damp</unlcear>
+<delrend="strikethrough">Walking <unclear> the </unclear>deathly in</del>
+<unclear>text</unclear> and think the <unclear>text</unclear> who <unclear> came </unclear>
+To worship in <unclear> devilish </unclear> flame
+<delrend="strikethrough">And things with empty</del>
+So happy, <delrend="strikethrough">in</del> <delrend="strikethrough">in</del> file more tonight
+So higher in <unclear>the</unclear> came <unclear>of</unclear> thought
+			<delrend="strikethrough"> only heavy <unclear>my</unclear></del>
+of in urgent that <unclear>Julimm</unclear>
+<delrend="strikethrough"> my <unclear>scream text my text text </unclear></del>
+<delrend="strikethrough"> deathly my <unclear>text dear</unclear></del>
 looking 
