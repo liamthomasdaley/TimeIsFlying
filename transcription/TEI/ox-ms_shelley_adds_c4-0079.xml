@@ -6,9 +6,9 @@
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0079.jp2"/>
       <zone type="main">
                 <line>And <del rend="strikethrough">thus contented with a lot</del></line>
-                <line rend = "underline"> Which others, who have suffered not,</line>
+                <line><del rend = "underline"> Which others, who have suffered not,</del></line>
                 <line>And this a<unclear reason = "illegible">XXXXXX</unclear> she about was</line>
-                <line><del rend="strikethrough">Fancy</del><add place="superlinear">Memory</add> gave me <unclear reason = "illegible">XXXX XXXX</unclear> of her</line>
+                <line><mod><del rend="strikethrough">Fancy</del><add place="superlinear">Memory</add></mod> gave me <unclear reason = "illegible">XXXX XXXX</unclear> of her</line>
                 <line>I dare t<unclear reason = "illegible">X</unclear></line>
                 <line><unclear reason = "illegible">XXXXX <del rend="strikethrough">XXXXXXX</del></unclear></line>
                 <line><unclear reason = "illegible">XXXXX</unclear></line>
