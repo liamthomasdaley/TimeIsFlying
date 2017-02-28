@@ -1,8 +1,8 @@
-In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add>> heart I dare not <del rend="strikethrough">talk</del> speak
+In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add> heart I dare not <del rend="strikethrough">talk</del> speak
 <del rend="strikethrough">The</del> My thoughts; but thus disturbed & weak
 I sat and watched the vefsels glide 
 Along the ocean bright & wide
-<del rend="strikethrough">Like *chariots* of an element</del>
+<del rend="strikethrough">Like chariots of an element</del>
 <del rend="strikethrough">things <unclear reason="illegible"extent="3"unit="chars"></unclear> </del>
 Like spirit winged chariots sent
 Oer some <del rend="strikethrough"> <unclear reason="illegible">divner</unclear> <add place="superlinear">serenest</add> element
@@ -14,4 +14,4 @@ Such sweet & bitter pain as mine
 <del rend="strikethrough">I saw th drark rocks</del>
 <del rend="strikethrough">I watched the dark rocks frown & yawn</del>
 And the wind that <del rend="strikethrough"> <unclear reason="illegible"extent="2"unit="chars"></unclear> </del>winde there flight 
-In 
+From the land came fresh & light
