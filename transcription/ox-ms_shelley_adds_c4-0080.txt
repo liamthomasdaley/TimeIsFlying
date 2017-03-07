@@ -15,3 +15,6 @@ Such sweet & bitter pain as mine
 <del rend="strikethrough">I watched the dark rocks frown & yawn</del>
 And the wind that <del rend="strikethrough"> <unclear reason="illegible"extent="2"unit="chars"></unclear> </del>winde there flight 
 From the land came fresh & light
+In <del rend="strikethrough">an</del> <delSpan spanTo="#anchor1"/>
+<line>
+<anchor xml:id+"anchor1">
