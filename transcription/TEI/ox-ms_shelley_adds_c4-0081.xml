@@ -4,7 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0081">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
-    <line><del rend="strikethrough">And in <unclear> warmth the day had <del rend="strikethrough"><unclear> left them </unclear></del></line>
+	<line><del rend="strikethrough">And in <unclear> warmth the day had </unclear></del> <del rend="strikethrough"><unclear> left them </unclear></del></line>
 <line><del rend="strikethrough"> with </del></line>
 <line><del rend="strikethrough"> <unclear> in heath </unclear> of night </del></line>
 <line>And in <unclear> want </unclear> of helping <unclear> them </unclear></line>
