@@ -8,13 +8,14 @@ Like spirit winged chariots sent
 Oer some <del rend="strikethrough"> <unclear reason="illegible">divner</unclear> <add place="superlinear">serenest</add> element
 For ministrations strange & far;
 As if to some Elysian star
-Thy <del rend="strikethrough">most for some odor</del>
+Thy <del rend="strikethrough">most for some clear</del>
 <line rend="indent1">Sailed for drink to medicin</line>
 Such sweet & bitter pain as mine
 <del rend="strikethrough">I saw th drark rocks</del>
 <del rend="strikethrough">I watched the dark rocks frown & yawn</del>
-And the wind that <del rend="strikethrough"> <unclear reason="illegible"extent="2"unit="chars"></unclear> </del>winde there flight 
+And the wind that <del rend="strikethrough"> <unclear reason="illegible"extent="2"unit="chars"></unclear> </del>winged their flight 
 From the land came fresh & light
-In <del rend="strikethrough">an</del> <delSpan spanTo="#anchor1"/>
-<line>
-<anchor xml:id+"anchor1">
+So <del rend="strikethrough">on</del> <delSpan spanTo="#anchor1"/> That on the softer sand
+Which XXX sea & land
+<del rend="strikethrough">Why</del> <add place="superlinear">Dicipline which</add> a thread of moonlight del rend="strikethrough">by</del>
+<del rend="strikethrough">After</del> On this <unclear reason="illegible"> <del rend="strikethrough">discirtangle</del> <add place="sublinear">mummy</add> ofring </unclear> <anchor xml:id+"anchor1">
