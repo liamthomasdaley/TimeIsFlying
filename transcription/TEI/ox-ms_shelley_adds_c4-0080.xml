@@ -5,7 +5,11 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0080">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0080.jp2"/>
 
-<line> In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add> heart I dare not <del rend="strikethrough">talk</del> speak </line> 
+  <zone type="library">
+    <line>36</line>    
+</zone>
+<zone type="main">
+    <line> In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add> heart I dare not <del rend="strikethrough">talk</del> speak </line> 
 <line> <del rend="strikethrough">The</del> My thoughts; but thus disturbed &amp; weak </line>
 <line> I sat and watched the vessels glide </line>
 <line> Along the ocean bright &amp; wide </line>
@@ -26,4 +30,5 @@ So <del rend="strikethrough">on</del> <delSpan spanTo="#anchor1"/> That on the s
 Which <unclear reason="illegible">Window</unclear> sea &amp; land
 <del rend="strikethrough">Why</del> <add place="superlinear">Dicipline which</add> a thread of moonlight <del rend="strikethrough">by</del>
 <del rend="strikethrough">After</del> On this <unclear reason="illegible"> <del rend="strikethrough">discirtangle</del> <add place="sublinear">mummy</add> ofring </unclear> <anchor xml:id="anchor1"> </anchor>
-</surface>
+</zone>
+    </surface>
