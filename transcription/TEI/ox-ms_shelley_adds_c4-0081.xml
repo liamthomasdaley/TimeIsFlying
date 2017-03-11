@@ -4,7 +4,7 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0081">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
-	<line><del rend="strikethrough">And in <unclear> warmth the day had </unclear></del> <del rend="strikethrough"><unclear> left them </unclear></del></line>
+	<line><del rend="strikethrough">And in <unclear> warmth the day had </unclear></del> <del rend="strikethrough"><unclear> <add place="superlinear"> left </add> them </unclear></del></line>
 <line><del rend="strikethrough"> with </del></line>
 <line><del rend="strikethrough"> <unclear> in heath </unclear> of night </del></line>
 <line>And in <unclear> want </unclear> of helping <unclear> them </unclear></line>
@@ -13,7 +13,7 @@
 <line>Was <unclear>text</unclear> on the <unclear> wrinkling </unclear> my </line>
 <line><del rend="strikethrough"><unclear>text</unclear></del></line>
 <line><del rend="strikethrough"> saw the dark for </del></line>
-<line>And in for <unclear> text </unclear> with <del rend="strikethrough"> their </del> his <unclear> lamp </unclear></line>
+<line>And in for <unclear> text </unclear> with <del rend="strikethrough"> their </del> <add place="superlinear"> his </add> <unclear> lamp </unclear></line>
 <line><del rend="strikethrough"> In the <unclear>dark grim</unclear></del></line>
 <line>And <unclear>skim,</unclear><unclear>text</unclear>in for<unclear>damp</unclear></line>
 <line><del rend="strikethrough">Walking <unclear> the </unclear>deathly in</del></line>
