@@ -5,9 +5,9 @@
     ulx="0" uly="0" lrx="4966" lry="7248" xml:id="ox-ms_shelley_adds_c4-0081">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0081.jp2"/>
 	<line>
-		<del rend="strikethrough">And in <unclear> warmth the day had </unclear></del> 
+		<mod><del rend="strikethrough">And in <unclear> warmth the day had </unclear></del> 
 		<del rend="strikethrough"><unclear> <add place="superlinear"> left </add> them </unclear></del>
-	</line>
+		</mod></line>
 	<line>
 		<del rend="strikethrough"> with </del>
 	</line>
@@ -16,28 +16,28 @@
 	</line>
 	<line>And in <unclear> want </unclear> of helping <unclear> them </unclear></line>
 	<line>And the <unclear> crimp </unclear> of the <unclear> home </unclear></line> 
-	<line>Of <unclear> dew, </unclear> of the <del rend="strikethrough"> night </del> what warmth 
+	<line>Of <unclear> dew, </unclear> of the <mod><del rend="strikethrough"> night </del> what warmth 
 		<unclear reason="illegible" extent="3" unit="chars"></unclear>
-	</line>
+		</mod></line>
 		<line>Was <unclear reason="illegible" extent="9" unit="chars"></unclear> on the <unclear> twinkling </unclear> bay </line>
-	<line><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del></line>
+	<line><mod><del rend="strikethrough"><unclear reason="illegible" extent="5" unit="chars"></unclear></del></mod></line>
 	<line><del rend="strikethrough"> saw the dark for </del></line>
-	<line>And in for <unclear reason="illegible" extent="7" unit="chars"></unclear> with 
+	<line>And in for <mod><unclear reason="illegible" extent="7" unit="chars"></unclear> with 
 		<del rend="strikethrough"> their </del> 
-		<add place="superlinear"> his </add> <unclear> lamp </unclear></line>
+		<add place="superlinear"> his </add> <unclear> lamp </unclear></mod></line>
 	<line><del rend="strikethrough"> In the <unclear>dark grim</unclear></del></line>
-	<line>And <unclear> skim, </unclear>
+	<line>And <mod><unclear> skim, </unclear>
 		<unclear reason="illegible" extent="6" unit="chars"></unclear> in low 
 		<unclear> rocks damp </unclear>
-	</line>
-	<line><del rend="strikethrough">Walking <unclear> the </unclear>deathly in</del></line>
+		</mod></line>
+	<line><mod><del rend="strikethrough">Walking <unclear> the </unclear>deathly in</del></mod></line>
 	<line><unclear> Crept, </unclear> and struck the <unclear> fish </unclear> who <unclear> came </unclear></line>
 	<line>To worship in <unclear> delusive </unclear> flame</line>
 	<line><del rend="strikethrough">And things with beauty</del></line>
-	<line> To happy, <add place="superlinear"><del rend="strikethrough">
+	<line> To happy, <mod><add place="superlinear"><del rend="strikethrough">
 		<unclear reason="illegible" extent="6" unit="chars"></unclear></del></add> 
 		<del rend="strikethrough">in</del> <del rend="strikethrough">in</del> file more tonight
-	</line>
+		</mod></line>
 	<line>Extinguishes in <unclear> all </unclear> sense <unclear>of</unclear> thought</line>
 	<line><del rend="strikethrough"> only heavy <unclear>my</unclear></del></line>
 	<line>of in regret that <unclear> pleasure </unclear></line>
