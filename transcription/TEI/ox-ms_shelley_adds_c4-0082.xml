@@ -26,7 +26,9 @@
 	<line>Time is flying</line>
 	<line>Originality is dying</line>
 	<line>Hope is sighing</line>
-	    <line><unclear reason="illegible" extent="3" unit="words"><del rend="strikethrough"></del></unclear></line>
+	    <line><mod>
+		    <unclear reason="illegible" extent="3" unit="words"><del rend="strikethrough"></del></unclear>
+		    </mod></line>
 	<line>Far more to fear</line>	
 	<line>Is this<unclear reason="illegible" extent="2" unit="words"></unclear></line>	
 	<line>Then<unclear reason="illegible" extent="3" unit="words"></unclear></line>		
