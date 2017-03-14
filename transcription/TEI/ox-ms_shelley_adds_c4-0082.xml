@@ -26,10 +26,10 @@
 	<line>Time is flying</line>
 	<line>Originality is dying</line>
 	<line>Hope is sighing</line>
-	<line><unclear reason="illegible" extent="3" unit="words"></unclear></line>
+	    <line><unclear reason="illegible" extent="3" unit="words"><del rend="strikethrough"></del></unclear></line>
 	<line>Far more to fear</line>	
-	<line><unclear reason="illegible" extent="4" unit="words"></unclear></line>	
-	<line><unclear reason="illegible" extent="4" unit="words"></unclear></line>		
+	<line>Is this<unclear reason="illegible" extent="2" unit="words"></unclear></line>	
+	<line>Then<unclear reason="illegible" extent="3" unit="words"></unclear></line>		
 	<line><unclear reason="illegible" extent="2" unit="words"></unclear></line>		
 	<line>Can I sing <mod>
 		<add place="superlinear">sought</add>
@@ -40,6 +40,6 @@
 	<line>And he<unclear reason="illegible" extent="1" unit="word"></unclear>
 	      adrift is<unclear reason="illegible" extent="1" unit="word"></unclear></line>
 	<line>And a state sink of this</line>
-	<line><unclear reason="illegible" extent="1" unit="word"></unclear></line>
+	<line><unclear reason="illegible">Forward</unclear></line>
     </zone>
 </surface>
