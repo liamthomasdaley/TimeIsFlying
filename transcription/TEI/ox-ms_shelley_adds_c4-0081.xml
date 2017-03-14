@@ -39,14 +39,14 @@
 		<del rend="strikethrough">in</del> <del rend="strikethrough">in</del> file more tonight
 		</mod></line>
 	<line>Extinguishes in <unclear> all </unclear> sense <unclear>of</unclear> thought</line>
-	<line><del rend="strikethrough"> only heavy <unclear>my</unclear></del></line>
+	<line><mod><del rend="strikethrough"> only heavy <unclear>my</unclear></del></mod></line>
 	<line>of in regret that <unclear> pleasure </unclear></line>
 	<line>
-		<del rend="strikethrough"> my <unclear>scream my thought my </unclear>
-		<unclear reason="illegible" extent="4" unit="chars"></unclear><unclear> my </unclear></del>
+		<mod><del rend="strikethrough"> my <unclear>scream my thought my </unclear>
+			<unclear reason="illegible" extent="4" unit="chars"></unclear><unclear> my </unclear></del></mod>
 	</line>
-	<line><del rend="strikethrough"> destroying </del> my life 
-		<unclear> <del rend="underlined"> not peace </del></unclear>
+	<line><mod><del rend="strikethrough"> destroying </del> my life 
+		<unclear> <del rend="underlined"> not peace </del></unclear></mod>
 	</line>
 	<line>looking</line>
 </surface>
