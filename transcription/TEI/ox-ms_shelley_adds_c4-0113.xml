@@ -4,28 +4,71 @@
 <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
     ulx="0" uly="0" lrx="4896" lry="7354" xml:id="ox-ms_shelley_adds_c4-0113">
     <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0113.jp2"/>
-    <line><del rend="strikethrough">An</del></line>
-   <line> <del rend="strikethrough">Fly</del></line>
-<line>Phantoms of men </line>
-    <line><del rend="strikethrough">Compelling them</del></line>
-    <line><del rend="strikethrough">With several dream –odling the <unclear reason="illegible">shapeless maps</unclear></del></line>
-    <line><del rend="strikethrough">I’d distract</del></line>
-
-<line>Thus, on the way</line>
-<line>Mask after mask fell from the countenance</line>
-    <line> <del rend="strikethrough">And from of <unclear reason="illegible">any pilgrim</unclear></del></line>
-    <line>And from of all, and <add place="superlinear"><del rend="strikethrough">and won</del></add> when the day  </line>
-    <line>Has old the joy which <del rend="strikethrough">was</del> <add place="superlinear">heaven</add> won demons <add place="superlinear">of XXX</add></line>
-    <line><del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chars">xxxd</unclear></del> The <unclear reason="illegible">XufrXs</unclear> in the other <unclear reason="illegible">miss</unclear> XXXX XXXX</line>
-    <line>And <del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear></del> <add place="superlinear">some</add> grew weary of the ghastly dance</line>
-    <line>And <del rend="strikethrough">sunk</del> fell, as I have fallen often</line>
-          <line>And I define <unclear reason="illegible" extent="4" unit="chars">xxxx</unclear></line>
-    <line>Those <unclear reason="illegible">worst</unclear>, <del rend="strikethrough">from when <unclear reason="illegible" extent="4" unit="chars">xxxx</unclear><unclear reason="illegible" extent="3" unit="chars">xxxx</unclear></del> <add place="sublinear"> from when XXXX most had one [host/past</add></line>
-    <line>And XXX of <del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear></del> <add place="superlinear">XXXX</add> of* honesty and<unclear reason="illegible" extent="3" unit="chars">xxx</unclear><unclear reason="illegible" extent="4" unit="chars">xxxx</unclear> </line>
-<line>How,</line>
-  <line>  And what is life I <del rend="strikethrough">said</del> <add place="sublinear">said</add> … <del rend="strikethrough">if <unclear reason="illegible" extent="4" unit="chars">xxxx</unclear><unclear reason="illegible" extent="3" unit="chars">xxxx</unclear></del></line>
-    <line><del rend="strikethrough">Wh</del> <add place="superlinear">This</add> eye when the <del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear><unclear reason="illegible" extent="3" unit="chars">xxx</unclear> of heaXXX</del> <add place="sublinear">ear which had <unclear reason="illegible" extent="4" unit="chars">xxxd</unclear></add></line>
-    <line>Onward, <unclear reason="illegible">as/is</unclear> of that book <unclear reason="illegible" extent="3" unit="chars">xxx</unclear> he the <unclear reason="illegible">host/past</unclear></line>
-<line> And answered… Happy <unclear reason="illegible" extent="3" unit="chars">xxx</unclear> for when the <unclear reason="illegible" extent="3" unit="chars">xxx</unclear></line>
-<line>Of</line>
+		<line><del rend="strikethrough">An</del></line>
+		<line> <del rend="strikethrough">Fly</del></line>
+		<line>Phantoms of men </line>
+		<line>
+			<del rend="strikethrough">Compelling them</del>
+		</line>
+		<line>
+			<del rend="strikethrough">With several dream –odling the <unclear reason="illegible">shapeless maps</unclear></del>
+		</line>
+		<line>
+			<del rend="strikethrough">I’d distract</del>
+		</line>
+		<line>Thus, on the way</line>
+		<line>Mask after mask fell from the countenance</line>
+		<line> 
+			<del rend="strikethrough">And from of <unclear reason="illegible">any pilgrim</unclear></del>
+		</line>
+		<line>And from of all, and 
+			<add place="superlinear"><del rend="strikethrough">and won</del></add> when the day
+		</line>
+		<line>Has old the joy which 
+			<del rend="strikethrough">was</del> 
+			<add place="superlinear">heaven</add> won demons 
+			<add place="superlinear">of XXX</add>
+		</line>
+		<line>
+			<del rend="strikethrough"><unclear reason="illegible" extent="4" unit="chars">xxxd</unclear></del>
+		The <unclear reason="illegible">XufrXs</unclear> in the other <unclear reason="illegible">miss</unclear> 
+		XXXX XXXX</line>
+		<line>And 
+			<del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear></del>
+			<add place="superlinear">some</add> grew weary of the ghastly dance
+		</line>
+		<line>And 
+			<del rend="strikethrough">sunk</del> fell, as I have fallen often
+		</line>
+        <line>And I define <unclear reason="illegible" extent="4" unit="chars">xxxx</unclear></line>
+		<line>Those <unclear reason="illegible">worst</unclear>
+			<del rend="strikethrough">from when 
+			<unclear reason="illegible" extent="4" unit="chars">xxxx</unclear>
+			<unclear reason="illegible" extent="3" unit="chars">xxxx</unclear></del> 
+			<add place="sublinear"> from when XXXX most had one [host/past</add>
+		</line>
+		<line>And XXX of 
+			<del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear></del> 
+			<add place="superlinear">XXXX</add> of* honesty and<unclear reason="illegible" extent="3" unit="chars">xxx</unclear>
+			<unclear reason="illegible" extent="4" unit="chars">xxxx</unclear>
+		</line>
+		<line>How,</line>
+		<line>  And what is life I <del rend="strikethrough">said</del> <add place="sublinear">said</add> … 
+			<del rend="strikethrough">if <unclear reason="illegible" extent="4" unit="chars">xxxx</unclear>
+			<unclear reason="illegible" extent="3" unit="chars">xxxx</unclear></del>
+		</line>
+		<line>
+			<del rend="strikethrough">Wh</del> <add place="superlinear">This</add> eye when the 
+			<del rend="strikethrough"><unclear reason="illegible" extent="3" unit="chars">xxx</unclear>
+			<unclear reason="illegible" extent="3" unit="chars">xxx</unclear> of heaXXX</del> 
+			<add place="sublinear">ear which had 
+			<unclear reason="illegible" extent="4" unit="chars">xxxd</unclear></add>
+		</line>
+		<line>Onward, <unclear reason="illegible">as/is</unclear> of that book 
+			<unclear reason="illegible" extent="3" unit="chars">xxx</unclear> he the 
+			<unclear reason="illegible">host/past</unclear></line>
+		<line> And answered… Happy <unclear reason="illegible" extent="3" unit="chars">xxx</unclear> for when the 
+			<unclear reason="illegible" extent="3" unit="chars">xxx</unclear>
+		</line>
+		<line>Of</line>
 </surface>
