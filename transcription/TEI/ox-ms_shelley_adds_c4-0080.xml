@@ -26,9 +26,12 @@
 <line> <del rend="strikethrough">I watched the dark rocks frown &amp; yawn</del> </line>
 <line> And the wind that <del rend="strikethrough"> <unclear reason="illegible" extent="2" unit="chars"> XX </unclear> </del> winged their flight </line>
 <line> From the land came fresh &amp; light </line>
-<line> So <del rend="strikethrough">on</del> <delSpan spanTo="#anchor1"/> That on the softer sand </line>
+<delSpan spanTo="#anchor1"/>    
+<line> So <del rend="strikethrough">on</del> That on the softer sand </line>
 <line> Which <unclear reason="illegible">Window</unclear> sea &amp; land </line>
 <line> <del rend="strikethrough">Why</del> <add place="superlinear">Dicipline which</add> a thread of moonlight <del rend="strikethrough">by</del> </line>
-<line> <del rend="strikethrough">After</del> On this <unclear reason="illegible"> <del rend="strikethrough">discirtangle</del> <add place="sublinear">mummy</add> ofring </unclear> <anchor xml:id="anchor1"> </anchor> </line>
+<line> <del rend="strikethrough">After</del> On this <unclear reason="illegible"> <del rend="strikethrough">discirtangle</del> <add place="sublinear">mummy</add> ofring </unclear> </line> 
+<anchor xml:id="anchor1"> 
+</anchor> 
 </zone>
     </surface>
