@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title></title>
+                <title type="main">Time is Flying and other lines written in the Bay of Lerici</title>
             </titleStmt>
             <editionStmt>
                 <edition>Shelley-Godwin Archive edition, <date>2017</date>
@@ -28,19 +28,52 @@
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
-                    <msIdentifier>
+                    <msIdentifier>MS Shelley Adds C 4
                         <altIdentifier>
                             <idno></idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <msItem>
-                            <bibl>
-                                <title></title>
+                        <msItem> class="poem">
+                            <bibl status="draft">
+							Contains two, potentially three works: “Bright wanderer” (lines 1-6 on page 78), 
+							“Lines written in the Bay of Lerici (lines 7 on page 78 through page 81),” and 
+							“Time is Flying” (82). A single line from the final page of The Triumph of Life (page 113) 
+                                   is included but not entirely rendered because one line pertains to “Time is Flying.” 
+							The first time “Lines” was published, by Richard Garnett in Macmillan’s Magazine in 1862, 
+							the first six lines, which we’ll continue to refer to as “Bright wanderer,” 
+							were omitted but included as a detached fragment titled “To the Moon.”
+                                <author>Percy Bysshe Shelley</author>
+						  <title>Lines Written in the Bay of Lerici</title>
                             </bibl>
                         </msItem>
                     </msContents>
-                </msDesc>
+					<physDesc>
+						<objectDesc>
+						<supportDesc>
+							<collation>Entirely written on a single autonomous bifolium of Parodi paper (ff. 35–36), 
+							with no sign of blots offset from other bifolia. The writing takes up nearly four sides, 
+                                   but as there is blank space sufficient for a line or two at the foot of f. 36v, 
+							we may infer that it did not continue onto a lost leaf.</collation>
+							<foliation>The bifolium is firmly folded in two horizontally, unlike the other leaves in Triumph MS, 
+							and is at present placed between part of Supplement 5 and “Time is flying,” but this placement 
+                                   is very questionable. Reiman concluded that the folios had been numbered arbitrarily on their 
+                                   accessioning at the Bodleian, perhaps following their state at reception, and that it was 
+                                   “impossible to determine exactly when during the composition of TL Shelley wrote [‘Lines’].” 
+                                   It is a fair guess that “Bright wanderer” was written after both 
+							“Time is flying” and To Jane.</foliation>
+						</supportDesc>
+						</objectDesc> 
+						<handDesc>
+							<handNote xml:id="pbs">
+                                 <persName>Percy Shelley</persName>
+							</handNote>
+								<handNote xml:id="pbs1" medium="pencil">
+                                        <persName>Percy Shelley</persName>
+                                </handNote>
+						</handDesc>
+					</physDesc>
+					</msDesc>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
