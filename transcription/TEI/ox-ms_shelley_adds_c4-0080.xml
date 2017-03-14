@@ -7,31 +7,50 @@
 
   <zone type="library">
     <line>36</line>    
-</zone>
-<zone type="main">
-    <line> In my <del rend="strikethrough">weak</del> <add place="superlinear">faint</add> heart I dare not <del rend="strikethrough">talk</del> speak </line> 
-<line> <del rend="strikethrough">The</del> My thoughts; but thus disturbed &amp; weak </line>
-<line> I sat and watched the vessels glide </line>
-<line> Along the ocean bright &amp; wide </line>
-<line> <del rend="strikethrough">Like chariots of an element</del> </line>
-<line> <del rend="strikethrough"> things <unclear reason="illegible" extent="3" unit="chars">XXX</unclear> </del> </line>
-<line> Like spirit winged chariots sent </line>
-<line> Oer some <del rend="strikethrough"> <unclear reason="illegible">divner</unclear> </del> <add place="superlinear">serenest</add> element </line>
-<line> For ministrations strange &amp; far; </line>
-<line> As if to some Elysian star </line>
-<line> Thy <del rend="strikethrough">most for some clear</del> </line>
-<line rend="indent1">Sailed for drink to medicin</line>
-<line> Such sweet &amp; bitter pain as mine </line>
-<line> <del rend="strikethrough">I saw th drark rocks</del> </line>
-<line> <del rend="strikethrough">I watched the dark rocks frown &amp; yawn</del> </line>
-<line> And the wind that <del rend="strikethrough"> <unclear reason="illegible" extent="2" unit="chars"> XX </unclear> </del> winged their flight </line>
-<line> From the land came fresh &amp; light </line>
+	</zone>
+	<zone type="main">
+    <line> In my 
+		<del rend="strikethrough">weak</del> 
+		<add place="superlinear">faint</add> 
+		heart I dare not <del rend="strikethrough">talk</del> speak 
+	</line> 
+	<line> 
+		<del rend="strikethrough">The</del> My thoughts; but thus disturbed &amp; weak 
+	</line>
+	<line> I sat and watched the vessels glide </line>
+	<line> Along the ocean bright &amp; wide </line>
+	<line> <del rend="strikethrough">Like chariots of an element</del> </line>
+	<line> <del rend="strikethrough"> things <unclear reason="illegible" extent="3" unit="chars">XXX</unclear> </del> </line>
+	<line> Like spirit winged chariots sent </line>
+	<line> Oer some 
+		<del rend="strikethrough"> <unclear reason="illegible">divner</unclear> </del> 
+		<add place="superlinear">serenest</add> element 
+	</line>
+	<line> For ministrations strange &amp; far; </line>
+	<line> As if to some Elysian star </line>
+	<line> Thy <del rend="strikethrough">most for some clear</del> </line>
+	<line rend="indent1">Sailed for drink to medicin</line>
+	<line> Such sweet &amp; bitter pain as mine </line>
+	<line> <del rend="strikethrough">I saw th drark rocks</del> </line>
+	<line> <del rend="strikethrough">I watched the dark rocks frown &amp; yawn</del> </line>
+	<line> And the wind that 
+		<del rend="strikethrough"> <unclear reason="illegible" extent="2" unit="chars"> XX </unclear> </del> winged their flight 
+	</line>
+	<line> From the land came fresh &amp; light </line>
 <delSpan spanTo="#anchor1"/>    
-<line> So <del rend="strikethrough">on</del> That on the softer sand </line>
-<line> Which <unclear reason="illegible">Window</unclear> sea &amp; land </line>
-<line> <del rend="strikethrough">Why</del> <add place="superlinear">Dicipline which</add> a thread of moonlight <del rend="strikethrough">by</del> </line>
-<line> <del rend="strikethrough">After</del> On this <unclear reason="illegible"> <del rend="strikethrough">discirtangle</del> <add place="sublinear">mummy</add> ofring </unclear> </line> 
+	<line> So <del rend="strikethrough">on</del> That on the softer sand </line>
+	<line> Which <unclear reason="illegible">Window</unclear> sea &amp; land </line>
+	<line> 
+		<del rend="strikethrough">Why</del> 
+		<add place="superlinear">Dicipline which</add> a thread of moonlight 
+		<del rend="strikethrough">by</del> 
+	</line>
+	<line> 
+		<del rend="strikethrough">After</del> On this <unclear reason="illegible"> 
+		<del rend="strikethrough">discirtangle</del> 
+		<add place="sublinear">mummy</add> ofring </unclear> 
+	</line> 
 <anchor xml:id="anchor1"> 
 </anchor> 
-</zone>
-    </surface>
+	</zone>
+</surface>
