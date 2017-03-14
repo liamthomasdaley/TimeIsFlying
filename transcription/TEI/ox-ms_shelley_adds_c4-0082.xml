@@ -13,35 +13,35 @@
 	 </layout>
     </layoutDesc>
     <zone type="top">
-	<line><del rend="strikethrough">The days are flying fast away</del></line>
-	<line><unclear reason="unclear" extent="2" unit="words"></unclear></line>
-	<line>The hours are flying</line>
- 	<line>And joys are dying</line>
- 	<line>And hope is sighing</line>   
+		<line><del rend="strikethrough">The days are flying fast away</del></line>
+		<line><unclear reason="unclear" extent="2" unit="words"></unclear></line>
+		<line>The hours are flying</line>
+		<line>And joys are dying</line>
+		<line>And hope is sighing</line>   
     </zone>
     <zone type="middle">
     <layoutDesc>
 	 <layout columns="2" writtenLines="8"></layout>
     </layoutDesc>
-	<line>Time is flying</line>
-	<line>Originality is dying</line>
-	<line>Hope is sighing</line>
-	    <line><mod>
-		    <unclear reason="illegible" extent="3" unit="words"><del rend="strikethrough"></del></unclear>
-		    </mod></line>
-	<line>Far more to fear</line>	
-	<line>Is this<unclear reason="illegible" extent="2" unit="words"></unclear></line>	
-	<line>Then<unclear reason="illegible" extent="3" unit="words"></unclear></line>		
-	<line><unclear reason="illegible" extent="2" unit="words"></unclear></line>		
-	<line>Can I sing <mod>
-		<add place="superlinear">sought</add>
-		</mod>that sound</line>
-	<line>Always mask of hope</line>
-	<line>duty to die like<unclear reason="illegible" extent="1" unit="word"></unclear></line>
-	<line><unclear reason="illegible" extent="3" unit="words"></unclear></line>
-	<line>And he<unclear reason="illegible" extent="1" unit="word"></unclear>
-	      adrift is<unclear reason="illegible" extent="1" unit="word"></unclear></line>
-	<line>And a state sink of this</line>
-	<line><unclear reason="illegible">Forward</unclear></line>
+		<line>Time is flying,</line>
+		<line>Occasion is dying,</line>
+		<line>Hope is sighing,</line>
+		<line rend="indent1">For <mod>
+			<del> this known</del>
+			<add place="sublinear">there is</add></mod>
+		</line>
+		<line>Far more to fear</line>	
+		<line>In the coming year</line>	
+		<line>Than desire can dar</line>		
+		<line rend="indent1">In this.</line>		
+		<line>I say <mod>
+			<add place="superlinear">might</add>
+			</mod>that sorrow</line>
+		<line>Joy's mask could borrow</line>
+		<line>If to day like tomorrow</line>
+		<line rend="indent1">Would Remain,</line>
+		<line>And between whis is bliss</line>
+		<line>And a state such as this</line>
+		<line rend="indent1">I would</line>
     </zone>
 </surface>
