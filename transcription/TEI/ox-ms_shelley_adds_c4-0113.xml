@@ -4,6 +4,17 @@
   <surface xmlns="http://www.tei-c.org/ns/1.0" xmlns:mith="http://mith.umd.edu/sc/ns1#"
       ulx="0" uly="0" lrx="4896" lry="7354" xml:id="ox-ms_shelley_adds_c4-0113">
       <graphic url="http://shelleygodwinarchive.org/images/ox/ms_shelley_adds_c4/ms_shelley_adds_c4-0113.jp2"/>
+	  <layoutDesc>
+	<layout>
+	  <!--Most of the content on this page has not been transcribed. That is because most of the text represents 
+	  the conclusion to The Triumph of Life, which is available elsewhere. However, one line of text does in fact pertain to 
+	  "Time is flying." On this draft page (f. 52v), above “Those soonest, from whose limbs the” under "have fallen" and to the left 
+	  of "way side" there appear, in tiny characters, in the same ink, the words “Alas I kiss you” followed by a disputed word, 
+	  written with a drying nib and read as “Jane” (1960), “Julie” (1965), and “[  ?  ]” (BSM). These words were evidently squeezed in 
+	  after drafting the surrounding lines (probably immediately after, certainly within the same composition session, 
+	  before they slipped his mind for refinement later. -->
+	 </layout>
+    </layoutDesc>
  	<zone type="center">
 		<line rend="indent3">Alas I kiss you Jane</line>
 	</zone>
